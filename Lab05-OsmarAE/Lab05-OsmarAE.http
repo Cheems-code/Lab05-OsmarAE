@@ -1,0 +1,6 @@
+@Lab05_OsmarAE_HostAddress = http://localhost:5185
+
+GET {{Lab05_OsmarAE_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

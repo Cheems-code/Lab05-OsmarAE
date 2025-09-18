@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab05-OsmarAE", "Lab05-OsmarAE\Lab05-OsmarAE.csproj", "{CF71A914-801B-4792-BA57-E67FE0E2351D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CF71A914-801B-4792-BA57-E67FE0E2351D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF71A914-801B-4792-BA57-E67FE0E2351D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CF71A914-801B-4792-BA57-E67FE0E2351D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CF71A914-801B-4792-BA57-E67FE0E2351D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
