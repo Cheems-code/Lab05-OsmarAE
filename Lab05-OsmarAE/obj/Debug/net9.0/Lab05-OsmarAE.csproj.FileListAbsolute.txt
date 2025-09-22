@@ -131,3 +131,4 @@ C:\Users\wilfr\RiderProjects\Lab05-OsmarAE\Lab05-OsmarAE\obj\Debug\net9.0\ref\La
 C:\Users\wilfr\RiderProjects\Lab05-OsmarAE\Lab05-OsmarAE\bin\Debug\net9.0\Swashbuckle.AspNetCore.Swagger.dll
 C:\Users\wilfr\RiderProjects\Lab05-OsmarAE\Lab05-OsmarAE\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerGen.dll
 C:\Users\wilfr\RiderProjects\Lab05-OsmarAE\Lab05-OsmarAE\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\wilfr\RiderProjects\Lab05-OsmarAE\Lab05-OsmarAE\obj\Debug\net9.0\Lab05-OsmarAE.sourcelink.json
